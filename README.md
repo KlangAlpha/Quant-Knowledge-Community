@@ -9,3 +9,6 @@
 ## 量化名词
 
 ## 业界现状
+
+## 量化教学
+. 聚宽量化入门: https://www.bilibili.com/video/BV1bY4y147eW/ 
